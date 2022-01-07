@@ -1,0 +1,59 @@
+{"bevenger": [
+    {
+        "id": "s25",
+        "name": "Pepsi",
+        "price": 1,
+        "img": "pepsi.png",
+        "food": false
+    },
+    {
+        "id": "s26",
+        "name": "Seven Up",
+        "price": 1,
+        "img": "sevenup.png",
+        "food": false
+    },
+    {
+        "id": "s27",
+        "name": "Aquafina",
+        "price": 0.5,
+        "img": "aquafina.png",
+        "type": false
+    },
+    {
+        "id": "s28",
+        "name": "Pepsi Zero Calo",
+        "price": 1.2,
+        "img": "pepsizerocalo.png",
+        "type": false
+    },
+    {
+        "id": "s29",
+        "name": "Tiger",
+        "price": 1,
+        "img": "tiger.png",
+        "type": false
+    },
+    {
+        "id": "s30",
+        "name": "333",
+        "price": 1,
+        "img": "333.png",
+        "type": false
+    },
+    {
+        "id": "s31",
+        "name": "Heniken",
+        "price": 1,
+        "img": "heniken.png",
+        "type": false
+    },
+    {
+        "id": "s32",
+        "name": "CocaCola",
+        "price": 1,
+        "img": "cocacola.png",
+        "type": false
+    }
+]
+}

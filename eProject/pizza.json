@@ -1,0 +1,116 @@
+{
+    "pizza":[
+        {
+            "id": "s1",
+            "name": "Seafood Pizza 1",
+            "price": 11.20,
+            "img": "seafood_type_1.png",
+            "food": true
+        },
+        {
+            "id": "s2",
+            "name": "Seafood Pizza 2",
+            "price": 11.35,
+            "img": "seafood_type_2.png",
+            "food": true
+        },
+        {
+            "id": "s3",
+            "name": "Seafood Pizza 3",
+            "price": 11.30,
+            "img": "seafood_type_3.png",
+            "food": true
+        },
+        {
+            "id": "s4",
+            "name": "Seafood Pizza 4",
+            "price": 11.25,
+            "img": "seafood_type_4.png",
+            "food": true
+        },
+        {
+            "id": "s5",
+            "name": "Mexid Pizza 1",
+            "price": 12.00,
+            "img": "pizza_mixed_1.png",
+            "food": true
+        },
+        {
+            "id": "s6",
+            "name": "Mexid Pizza 2",
+            "price": 12.00,
+            "img": "pizza_mixed_2.png",
+            "food": true
+        },
+        {
+            "id": "s7",
+            "name": "Mexid Pizza 3",
+            "price": 12.00,
+            "img": "pizza_mixed_3.png",
+            "food": true
+        },
+        {
+            "id": "s8",
+            "name": "Mexid Pizza 4",
+            "price": 12.00,
+            "img": "pizza_mixed_4.png",
+            "food": true
+        },
+        {
+            "id": "s9",
+            "name": "Mexid Pizza 5",
+            "price": 12.00,
+            "img": "pizza_mixed_5.png",
+            "food": true
+        },
+        {
+            "id": "s10",
+            "name": "Vegetable Verescent Pizza",
+            "price": 10.00,
+            "img": "vegetable_verescent_pizza.png",
+            "food": true
+        },
+        {
+            "id": "s11",
+            "name": "Slow Cooker Pizza Chicken",
+            "price": 10.00,
+            "img": "slow_cooker_pizza _chicken.png",
+            "food": true
+        },
+        {
+            "id": "s12",
+            "name": "Pizza Meat",
+            "price": 10.00,
+            "img": "pizza_meat.png",
+            "food": true
+        },
+        {
+            "id": "s13",
+            "name": "Pizza Chicken",
+            "price": 10.00,
+            "img": "pizza_chicken.png",
+            "food": true
+        },
+        {
+            "id": "s14",
+            "name": "Pizza Pestro",
+            "price": 10.00,
+            "img": "pizza_pestro.png",
+            "food": true
+        },
+        {
+            "id": "s15",
+            "name": "Pizza Meat 2",
+            "price": 10.00,
+            "img": "pizza_meat_2.png",
+            "food": true
+        },
+        {
+            "id": "s16",
+            "name": "Sausage Pizza",
+            "price": 10.00,
+            "img": "sausage_pizza.png",
+            "food": true
+        }
+]
+}

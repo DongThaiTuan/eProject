@@ -1,0 +1,25 @@
+<div class="container">
+    <div>
+        <input type="text" required placeholder="Enter food name" class="form-control" ng-model='food'>
+    </div>
+</div>
+<div class="container menu">
+    <div ng-controller="myMenu" class="row">
+        <ul ng-repeat="item in menu|filter:food" class="col-sm-3 col-md-3 item">
+
+            <div class="img-menu">
+                <img src="image_pizza/{{item.img}}" width="100%"><br>
+                <h6>{{item.name}} </h6>
+                <h6>{{item.price}} $ </h6> <br>
+
+                <select class="menu_item" name="" id="" ng-show={{item.food}}>
+                    <option value="Big">BIG</option>
+                    <option value="Medium">MEDIUM</option>
+                    <option value="Small">SMALL</option>
+                </select><br><br>
+                <input type="button" value="Add To" ng-click="addCart(item.id)" class="btn btn-success">
+                <br><br>
+            </div>
+        </ul>
+    </div>
+</div>

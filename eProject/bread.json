@@ -1,0 +1,32 @@
+{
+    "bread":[
+        {
+            "id": "s17",
+            "name": "Galic Bread",
+            "price": 2.5,
+            "img": "galic_bread.png",
+            "food": false
+        },
+        {
+            "id": "s18",
+            "name": "Galic Bread 2",
+            "price": 2.5,
+            "img": "galic_bread_2.png",
+            "food": false
+        },
+        {
+            "id": "s19",
+            "name": "Galic Bread 3",
+            "price": 2.5,
+            "img": "galic_bread_3.png",
+            "food": false
+        },
+        {
+            "id": "s20",
+            "name": "Toasted Bread",
+            "price": 2.5,
+            "img": "toasted_bread.png",
+            "food": false
+        }
+    ]
+}

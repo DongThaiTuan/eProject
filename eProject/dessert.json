@@ -1,0 +1,32 @@
+{
+    "dessert":[
+        {
+            "id": "s21",
+            "name": "French Fries",
+            "price": 2.5,
+            "img": "french_fries.png",
+            "food": false
+        },
+        {
+            "id": "s22",
+            "name": "Chicken Without Frost",
+            "price": 3.0,
+            "img": "chicken_without_frost.png",
+            "food": false
+        },
+        {
+            "id": "s23",
+            "name": "Fried Chicken",
+            "price": 3.5,
+            "img": "fried_chicken.png",
+            "food": false
+        },
+        {
+            "id": "s24",
+            "name": "Fried Squid",
+            "price": 2.5,
+            "img": "fried_squid.png",
+            "food": false
+        }
+    ]
+}
