@@ -14,4 +14,4 @@ Link:
 
 -Published: https://dongthaituan.github.io/eProject/eProject/home.html
 
--eProject report link:https://github.com/DongThaiTuan/eProject-pizzaphop/tree/master/Document
+-eProject report link:https://github.com/DongThaiTuan/eProject/tree/master/eProject/Document
